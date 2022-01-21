@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gervaisalexandra@outlook.fr
+	name = gervais alexandra
